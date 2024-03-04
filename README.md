@@ -4,8 +4,6 @@
 ## Lv0
 
 [영어가 싫어요](https://github.com/JinhwanB/Programmers/blob/main/src/Lv0/IDontLikeEnglish.java)
-<br>
-[창고 정리](https://github.com/JinhwanB/Programmers/blob/main/src/Lv0/ReplaceItems.java)
 
 ## Lv1
 
