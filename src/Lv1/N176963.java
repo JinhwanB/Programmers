@@ -5,6 +5,9 @@ import java.util.HashMap;
 import java.util.Map;
 
 // 추억 점수
+// name[i]번째에 해당하는 사람의 추억 점수는 yearning[i]
+// photo의 각 원소는 사진별 존재하는 사람의 이름
+// 각 사진별 추억 점수를 배열로 리턴
 public class N176963 {
     public static int[] solution(String[] name, int[] yearning, String[][] photo){
         Map<String, Integer> map = new HashMap<>();
