@@ -9,10 +9,10 @@ public class N12915 {
         Arrays.sort(strings, new Comparator<String>() {
             @Override
             public int compare(String o1, String o2) {
-                if(o1.charAt(n) == o2.charAt(n)){
+                if(o1.charAt(n) == o2.charAt(n)){ // n 번째 단어가 같다면 사전순으로 먼저 오는 순으로 정렬
                     return o1.compareTo(o2);
                 }
-                return (int) o1.charAt(n) - (int) o2.charAt(n);
+                return (int) o1.charAt(n) - (int) o2.charAt(n); // n 번째 단어 기준으로 정렬
             }
         });
 
