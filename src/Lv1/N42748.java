@@ -3,6 +3,8 @@ package Lv1;
 import java.util.Arrays;
 
 // K번째 수
+// i 번째 수부터 j 번째 수를 담고 있는 배열을 오름차순으로 정렬한 후
+// k 번째에 해당하는 수를 배열에 담아 리턴
 public class N42748 {
     public static int[] solution(int[] array, int[][] commands){
         int[] result = new int[commands.length];
