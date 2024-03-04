@@ -4,6 +4,7 @@ import java.util.Arrays;
 import java.util.Comparator;
 
 // 문자열 내 마음대로 정렬하기
+// n 번째 단어를 기준으로 정렬하기 단, n 번째 단어가 같다면 사전순으로 정렬하기
 public class N12915 {
     public static String[] solution(String[] strings, int n){
         Arrays.sort(strings, new Comparator<String>() {
