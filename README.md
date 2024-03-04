@@ -3,7 +3,8 @@
 
 ## Lv0
 
-[영어가 싫어요](https://github.com/JinhwanB/Programmers/blob/main/src/Lv0/IDontLikeEnglish.java)
+[영어가 싫어요](https://github.com/JinhwanB/Programmers/blob/main/src/Lv0/IDontLikeEnglish.java)<br>
+[한 번만 등장한 문자](https://github.com/JinhwanB/Programmers/blob/main/src/Lv0/N120896.java)
 
 ## Lv1
 
