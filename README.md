@@ -4,7 +4,8 @@
 ## Lv0
 
 [영어가 싫어요](https://github.com/JinhwanB/Programmers/blob/main/src/Lv0/IDontLikeEnglish.java)<br>
-[한 번만 등장한 문자](https://github.com/JinhwanB/Programmers/blob/main/src/Lv0/N120896.java)
+[한 번만 등장한 문자](https://github.com/JinhwanB/Programmers/blob/main/src/Lv0/N120896.java)<br>
+[배열 회전시키기](https://github.com/JinhwanB/Programmers/blob/main/src/Lv0/N120844.java)
 
 ## Lv1
 
