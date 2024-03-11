@@ -1,5 +1,6 @@
 # Programmers
- 프로그래머스 문제 풀이
+
+프로그래머스 문제 풀이
 
 ## Lv0
 
@@ -22,4 +23,13 @@
 [[1차] 비밀지도](https://github.com/JinhwanB/Programmers/blob/main/src/Lv1/N17681.java)<br>
 [추억 점수](https://github.com/JinhwanB/Programmers/blob/main/src/Lv1/N176963.java)<br>
 [K번째 수](https://github.com/JinhwanB/Programmers/blob/main/src/Lv1/N42748.java)<br>
-[두 개 뽑아서 더하기](https://github.com/JinhwanB/Programmers/blob/main/src/Lv1/N68644.java)
+[두 개 뽑아서 더하기](https://github.com/JinhwanB/Programmers/blob/main/src/Lv1/N68644.java)<br>
+[폰켓몬](https://github.com/JinhwanB/Programmers/blob/main/src/Lv1/N1845.java)<br>
+[2016년](https://github.com/JinhwanB/Programmers/blob/main/src/Lv1/N12901.java)<br>
+[소수 찾기](https://github.com/JinhwanB/Programmers/blob/main/src/Lv1/N12921.java)<br>
+[소수 만들기](https://github.com/JinhwanB/Programmers/blob/main/src/Lv1/N12977.java)<br>
+[모의고사](https://github.com/JinhwanB/Programmers/blob/main/src/Lv1/N42840.java)<br>
+[과일 장수](https://github.com/JinhwanB/Programmers/blob/main/src/Lv1/N135808.java)<br>
+[기사단원의 무기](https://github.com/JinhwanB/Programmers/blob/main/src/Lv1/N136798.java)<br>
+[카드 뭉치](https://github.com/JinhwanB/Programmers/blob/main/src/Lv1/N159994.java)<br>
+[덧칠하기](https://github.com/JinhwanB/Programmers/blob/main/src/Lv1/N161989.java)
