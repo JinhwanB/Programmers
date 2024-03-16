@@ -36,4 +36,5 @@
 [실패율](https://github.com/JinhwanB/Programmers/blob/main/src/Lv1/N42889.java)<br>
 [옹알이 (2)](https://github.com/JinhwanB/Programmers/blob/main/src/Lv1/N133499.java)<br>
 [[1차] 다트 게임](https://github.com/JinhwanB/Programmers/blob/main/src/Lv1/N17682.java)<br>
-[로또의 최고 순위와 최저 순위](https://github.com/JinhwanB/Programmers/blob/main/src/Lv1/N77484.java)
+[로또의 최고 순위와 최저 순위](https://github.com/JinhwanB/Programmers/blob/main/src/Lv1/N77484.java)<br>
+[문자열 나누기](https://github.com/JinhwanB/Programmers/blob/main/src/Lv1/N140108.java)
