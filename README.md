@@ -33,4 +33,6 @@
 [기사단원의 무기](https://github.com/JinhwanB/Programmers/blob/main/src/Lv1/N136798.java)<br>
 [카드 뭉치](https://github.com/JinhwanB/Programmers/blob/main/src/Lv1/N159994.java)<br>
 [덧칠하기](https://github.com/JinhwanB/Programmers/blob/main/src/Lv1/N161989.java)<br>
-[실패율](https://github.com/JinhwanB/Programmers/blob/main/src/Lv1/N42889.java)
+[실패율](https://github.com/JinhwanB/Programmers/blob/main/src/Lv1/N42889.java)<br>
+[옹알이 (2)](https://github.com/JinhwanB/Programmers/blob/main/src/Lv1/N133499.java)<br>
+[[1차] 다트 게임](https://github.com/JinhwanB/Programmers/blob/main/src/Lv1/N17682.java)
