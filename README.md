@@ -39,4 +39,5 @@
 [로또의 최고 순위와 최저 순위](https://github.com/JinhwanB/Programmers/blob/main/src/Lv1/N77484.java)<br>
 [문자열 나누기](https://github.com/JinhwanB/Programmers/blob/main/src/Lv1/N140108.java)<br>
 [대충 만든 자판](https://github.com/JinhwanB/Programmers/blob/main/src/Lv1/N160586.java)<br>
-[체육복](https://github.com/JinhwanB/Programmers/blob/main/src/Lv1/N42862.java)
+[체육복](https://github.com/JinhwanB/Programmers/blob/main/src/Lv1/N42862.java)<br>
+[숫자 짝꿍](https://github.com/JinhwanB/Programmers/blob/main/src/Lv1/N131128.java)
