@@ -33,7 +33,7 @@ public class N131128 {
 
         if (pq.isEmpty() && queue0.isEmpty()) { // 짝이 없는 경우
             return "-1";
-        } else if (pq.isEmpty() && !queue0.isEmpty()) { // 숫자 0 만 짝이 존재하는 경
+        } else if (pq.isEmpty() && !queue0.isEmpty()) { // 숫자 0 만 짝이 존재하는 경우
             return "0";
         }
 
