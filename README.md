@@ -41,4 +41,5 @@
 [대충 만든 자판](https://github.com/JinhwanB/Programmers/blob/main/src/Lv1/N160586.java)<br>
 [체육복](https://github.com/JinhwanB/Programmers/blob/main/src/Lv1/N42862.java)<br>
 [숫자 짝꿍](https://github.com/JinhwanB/Programmers/blob/main/src/Lv1/N131128.java)<br>
-[완주하지 못한 선수](https://github.com/JinhwanB/Programmers/blob/main/src/Lv1/N42576.java)
+[완주하지 못한 선수](https://github.com/JinhwanB/Programmers/blob/main/src/Lv1/N42576.java)<br>
+[둘만의 암호](https://github.com/JinhwanB/Programmers/blob/main/src/Lv1/N155652.java)
