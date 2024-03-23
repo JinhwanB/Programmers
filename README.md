@@ -43,4 +43,5 @@
 [숫자 짝꿍](https://github.com/JinhwanB/Programmers/blob/main/src/Lv1/N131128.java)<br>
 [완주하지 못한 선수](https://github.com/JinhwanB/Programmers/blob/main/src/Lv1/N42576.java)<br>
 [둘만의 암호](https://github.com/JinhwanB/Programmers/blob/main/src/Lv1/N155652.java)<br>
-[이웃한 칸](https://github.com/JinhwanB/Programmers/blob/main/src/Lv1/N250125.java)
+[이웃한 칸](https://github.com/JinhwanB/Programmers/blob/main/src/Lv1/N250125.java)<br>
+[햄버거 만들기](https://github.com/JinhwanB/Programmers/blob/main/src/Lv1/N133502.java)
