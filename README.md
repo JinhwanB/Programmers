@@ -45,4 +45,5 @@
 [둘만의 암호](https://github.com/JinhwanB/Programmers/blob/main/src/Lv1/N155652.java)<br>
 [이웃한 칸](https://github.com/JinhwanB/Programmers/blob/main/src/Lv1/N250125.java)<br>
 [햄버거 만들기](https://github.com/JinhwanB/Programmers/blob/main/src/Lv1/N133502.java)<br>
-[크레인 인형뽑기 게임](https://github.com/JinhwanB/Programmers/blob/main/src/Lv1/N64061.java)
+[크레인 인형뽑기 게임](https://github.com/JinhwanB/Programmers/blob/main/src/Lv1/N64061.java)<br>
+[키패드 누르기](https://github.com/JinhwanB/Programmers/blob/main/src/Lv1/N67256.java)
