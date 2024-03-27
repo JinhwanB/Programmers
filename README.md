@@ -47,4 +47,5 @@
 [햄버거 만들기](https://github.com/JinhwanB/Programmers/blob/main/src/Lv1/N133502.java)<br>
 [크레인 인형뽑기 게임](https://github.com/JinhwanB/Programmers/blob/main/src/Lv1/N64061.java)<br>
 [키패드 누르기](https://github.com/JinhwanB/Programmers/blob/main/src/Lv1/N67256.java)<br>
-[성격 유형 검사하기](https://github.com/JinhwanB/Programmers/blob/main/src/Lv1/N118666.java)
+[성격 유형 검사하기](https://github.com/JinhwanB/Programmers/blob/main/src/Lv1/N118666.java)<br>
+[신규 아이디 추천](https://github.com/JinhwanB/Programmers/blob/main/src/Lv1/N72410.java)
