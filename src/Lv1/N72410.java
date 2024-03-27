@@ -29,7 +29,7 @@ public class N72410 {
     }
 
     public static void main(String[] args) {
-        System.out.println(solution("...!@BaT#*..y.abcdefghijklm."));
+        System.out.println(solution("...!@BaT#*..y.abcdefghijklm"));
         System.out.println(solution("z-+.^."));
         System.out.println(solution("=.="));
         System.out.println(solution("123_.def"));
