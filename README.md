@@ -48,4 +48,5 @@
 [크레인 인형뽑기 게임](https://github.com/JinhwanB/Programmers/blob/main/src/Lv1/N64061.java)<br>
 [키패드 누르기](https://github.com/JinhwanB/Programmers/blob/main/src/Lv1/N67256.java)<br>
 [성격 유형 검사하기](https://github.com/JinhwanB/Programmers/blob/main/src/Lv1/N118666.java)<br>
-[신규 아이디 추천](https://github.com/JinhwanB/Programmers/blob/main/src/Lv1/N72410.java)
+[신규 아이디 추천](https://github.com/JinhwanB/Programmers/blob/main/src/Lv1/N72410.java)<br>
+[[PCCE 기출문제] 10번 / 데이터 분석](https://github.com/JinhwanB/Programmers/blob/main/src/Lv1/N250121.java)
