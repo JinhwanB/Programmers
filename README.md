@@ -49,4 +49,5 @@
 [키패드 누르기](https://github.com/JinhwanB/Programmers/blob/main/src/Lv1/N67256.java)<br>
 [성격 유형 검사하기](https://github.com/JinhwanB/Programmers/blob/main/src/Lv1/N118666.java)<br>
 [신규 아이디 추천](https://github.com/JinhwanB/Programmers/blob/main/src/Lv1/N72410.java)<br>
-[[PCCE 기출문제] 10번 / 데이터 분석](https://github.com/JinhwanB/Programmers/blob/main/src/Lv1/N250121.java)
+[[PCCE 기출문제] 10번 / 데이터 분석](https://github.com/JinhwanB/Programmers/blob/main/src/Lv1/N250121.java)<br>
+[바탕화면 정리](https://github.com/JinhwanB/Programmers/blob/main/src/Lv1/N161990.java)
