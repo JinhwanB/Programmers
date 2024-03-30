@@ -52,4 +52,5 @@
 [[PCCE 기출문제] 10번 / 데이터 분석](https://github.com/JinhwanB/Programmers/blob/main/src/Lv1/N250121.java)<br>
 [바탕화면 정리](https://github.com/JinhwanB/Programmers/blob/main/src/Lv1/N161990.java)<br>
 [개인정보 수집 유효기간](https://github.com/JinhwanB/Programmers/blob/main/src/Lv1/N150370.java)<br>
-[공원 산책](https://github.com/JinhwanB/Programmers/blob/main/src/Lv1/N172928.java)
+[공원 산책](https://github.com/JinhwanB/Programmers/blob/main/src/Lv1/N172928.java)<br>
+[신고 결과 받기](https://github.com/JinhwanB/Programmers/blob/main/src/Lv1/N92334.java)
