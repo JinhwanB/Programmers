@@ -55,4 +55,8 @@
 [공원 산책](https://github.com/JinhwanB/Programmers/blob/main/src/Lv1/N172928.java)<br>
 [신고 결과 받기](https://github.com/JinhwanB/Programmers/blob/main/src/Lv1/N92334.java)<br>
 [[PCCP 기출 문제] 1번 / 붕대 감기](https://github.com/JinhwanB/Programmers/blob/main/src/Lv1/N250137.java)<br>
-[가장 많이 받은 선물](https://github.com/JinhwanB/Programmers/blob/main/src/Lv1/N258712.java)
+[가장 많이 받은 선물](https://github.com/JinhwanB/Programmers/blob/main/src/Lv1/N258712.java)<br>
+
+## Lv2
+
+[최댓값과 최솟값](https://github.com/JinhwanB/Programmers/blob/main/src/Lv2/N12939.java)
