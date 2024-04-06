@@ -64,4 +64,5 @@
 [최솟값 만들기](https://github.com/JinhwanB/Programmers/blob/main/src/Lv2/N12941.java)<br>
 [올바른 괄호](https://github.com/JinhwanB/Programmers/blob/main/src/Lv2/N12909.java)<br>
 [이진 변환 반복하기](https://github.com/JinhwanB/Programmers/blob/main/src/Lv2/N70129.java)<br>
-[숫자의 표현](https://github.com/JinhwanB/Programmers/blob/main/src/Lv2/N12924.java)
+[숫자의 표현](https://github.com/JinhwanB/Programmers/blob/main/src/Lv2/N12924.java)<br>
+[다음 큰 숫자](https://github.com/JinhwanB/Programmers/blob/main/src/Lv2/N12911.java)
