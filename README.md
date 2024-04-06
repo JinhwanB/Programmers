@@ -62,4 +62,5 @@
 [최댓값과 최솟값](https://github.com/JinhwanB/Programmers/blob/main/src/Lv2/N12939.java)<br>
 [JadenCase 문자열 만들기](https://github.com/JinhwanB/Programmers/blob/main/src/Lv2/N12951.java)<br>
 [최솟값 만들기](https://github.com/JinhwanB/Programmers/blob/main/src/Lv2/N12941.java)<br>
-[올바른 괄호](https://github.com/JinhwanB/Programmers/blob/main/src/Lv2/N12909.java)
+[올바른 괄호](https://github.com/JinhwanB/Programmers/blob/main/src/Lv2/N12909.java)<br>
+[이진 변환 반복하기](https://github.com/JinhwanB/Programmers/blob/main/src/Lv2/N70129.java)
