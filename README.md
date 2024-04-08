@@ -67,4 +67,5 @@
 [숫자의 표현](https://github.com/JinhwanB/Programmers/blob/main/src/Lv2/N12924.java)<br>
 [다음 큰 숫자](https://github.com/JinhwanB/Programmers/blob/main/src/Lv2/N12911.java)<br>
 [피보나치 수](https://github.com/JinhwanB/Programmers/blob/main/src/Lv2/N12945.java)<br>
-[짝지어 제거하기](https://github.com/JinhwanB/Programmers/blob/main/src/Lv2/N12973.java)
+[짝지어 제거하기](https://github.com/JinhwanB/Programmers/blob/main/src/Lv2/N12973.java)<br>
+[카펫](https://github.com/JinhwanB/Programmers/blob/main/src/Lv2/N42842.java)
