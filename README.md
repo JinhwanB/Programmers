@@ -70,4 +70,5 @@
 [짝지어 제거하기](https://github.com/JinhwanB/Programmers/blob/main/src/Lv2/N12973.java)<br>
 [카펫](https://github.com/JinhwanB/Programmers/blob/main/src/Lv2/N42842.java)<br>
 [영어 끝말잇기](https://github.com/JinhwanB/Programmers/blob/main/src/Lv2/N12981.java)<br>
-[N개의 최소공배수](https://github.com/JinhwanB/Programmers/blob/main/src/Lv2/N12953.java)
+[N개의 최소공배수](https://github.com/JinhwanB/Programmers/blob/main/src/Lv2/N12953.java)<br>
+[점프와 순간 이동](https://github.com/JinhwanB/Programmers/blob/main/src/Lv2/N12980.java)
