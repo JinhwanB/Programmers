@@ -72,4 +72,5 @@
 [영어 끝말잇기](https://github.com/JinhwanB/Programmers/blob/main/src/Lv2/N12981.java)<br>
 [N개의 최소공배수](https://github.com/JinhwanB/Programmers/blob/main/src/Lv2/N12953.java)<br>
 [점프와 순간 이동](https://github.com/JinhwanB/Programmers/blob/main/src/Lv2/N12980.java)<br>
-[예상 대진표](https://github.com/JinhwanB/Programmers/blob/main/src/Lv2/N12985.java)
+[예상 대진표](https://github.com/JinhwanB/Programmers/blob/main/src/Lv2/N12985.java)<br>
+[구명보트](https://github.com/JinhwanB/Programmers/blob/main/src/Lv2/N42885.java)
