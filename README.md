@@ -77,4 +77,5 @@
 [멀리 뛰기](https://github.com/JinhwanB/Programmers/blob/main/src/Lv2/N12914.java)<br>
 [연속 부분 수열 합의 개수](https://github.com/JinhwanB/Programmers/blob/main/src/Lv2/N131701.java)<br>
 [괄호 회전하기](https://github.com/JinhwanB/Programmers/blob/main/src/Lv2/N76502.java)<br>
-[H-Index])(https://github.com/JinhwanB/Programmers/blob/main/src/Lv2/N42747.java)
+[H-Index](https://github.com/JinhwanB/Programmers/blob/main/src/Lv2/N42747.java)<br>
+[n^2 배열 자르기](https://github.com/JinhwanB/Programmers/blob/main/src/Lv2/N873390.java)
