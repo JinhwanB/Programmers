@@ -79,4 +79,5 @@
 [괄호 회전하기](https://github.com/JinhwanB/Programmers/blob/main/src/Lv2/N76502.java)<br>
 [H-Index](https://github.com/JinhwanB/Programmers/blob/main/src/Lv2/N42747.java)<br>
 [n^2 배열 자르기](https://github.com/JinhwanB/Programmers/blob/main/src/Lv2/N873390.java)<br>
-[할인 행사](https://github.com/JinhwanB/Programmers/blob/main/src/Lv2/N131127.java)
+[할인 행사](https://github.com/JinhwanB/Programmers/blob/main/src/Lv2/N131127.java)<br>
+[행렬의 곱셈](https://github.com/JinhwanB/Programmers/blob/main/src/Lv2/N12949.java)
