@@ -87,4 +87,5 @@
 [튜플](https://github.com/JinhwanB/Programmers/blob/main/src/Lv2/N64065.java)<br>
 [프로세스](https://github.com/JinhwanB/Programmers/blob/main/src/Lv2/N42587.java)<br>
 [피로도](https://github.com/JinhwanB/Programmers/blob/main/src/Lv2/N87946.java)<br>
-[[1차] 뉴스 클러스터링](https://github.com/JinhwanB/Programmers/blob/main/src/Lv2/N17677.java)
+[[1차] 뉴스 클러스터링](https://github.com/JinhwanB/Programmers/blob/main/src/Lv2/N17677.java)<br>
+[전화번호 목록](https://github.com/JinhwanB/Programmers/blob/main/src/Lv2/N42577.java)
