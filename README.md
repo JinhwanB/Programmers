@@ -89,4 +89,5 @@
 [피로도](https://github.com/JinhwanB/Programmers/blob/main/src/Lv2/N87946.java)<br>
 [[1차] 뉴스 클러스터링](https://github.com/JinhwanB/Programmers/blob/main/src/Lv2/N17677.java)<br>
 [전화번호 목록](https://github.com/JinhwanB/Programmers/blob/main/src/Lv2/N42577.java)<br>
-[타겟 넘버](https://github.com/JinhwanB/Programmers/blob/main/src/Lv2/N43165.java)
+[타겟 넘버](https://github.com/JinhwanB/Programmers/blob/main/src/Lv2/N43165.java)<br>
+[k진수에서 소수 개수 구하기](https://github.com/JinhwanB/Programmers/blob/main/src/Lv2/N92335.java)
