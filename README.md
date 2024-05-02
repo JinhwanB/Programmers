@@ -93,4 +93,5 @@
 [k진수에서 소수 개수 구하기](https://github.com/JinhwanB/Programmers/blob/main/src/Lv2/N92335.java)<br>
 [게임 맵 최단거리](https://github.com/JinhwanB/Programmers/blob/main/src/Lv2/N1844.java)<br>
 [[3차] 압축](https://github.com/JinhwanB/Programmers/blob/main/src/Lv2/N17684.java)<br>
-[[3차] n진수 게임](https://github.com/JinhwanB/Programmers/blob/main/src/Lv2/N17687.java)
+[[3차] n진수 게임](https://github.com/JinhwanB/Programmers/blob/main/src/Lv2/N17687.java)<br>
+[모음 사전](https://github.com/JinhwanB/Programmers/blob/main/src/Lv2/N84512.java)
