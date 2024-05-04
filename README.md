@@ -94,4 +94,5 @@
 [게임 맵 최단거리](https://github.com/JinhwanB/Programmers/blob/main/src/Lv2/N1844.java)<br>
 [[3차] 압축](https://github.com/JinhwanB/Programmers/blob/main/src/Lv2/N17684.java)<br>
 [[3차] n진수 게임](https://github.com/JinhwanB/Programmers/blob/main/src/Lv2/N17687.java)<br>
-[모음 사전](https://github.com/JinhwanB/Programmers/blob/main/src/Lv2/N84512.java)
+[모음 사전](https://github.com/JinhwanB/Programmers/blob/main/src/Lv2/N84512.java)<br>
+[주식가격](https://github.com/JinhwanB/Programmers/blob/main/src/Lv2/N42584.java)
