@@ -96,4 +96,5 @@
 [[3차] n진수 게임](https://github.com/JinhwanB/Programmers/blob/main/src/Lv2/N17687.java)<br>
 [모음 사전](https://github.com/JinhwanB/Programmers/blob/main/src/Lv2/N84512.java)<br>
 [주식가격](https://github.com/JinhwanB/Programmers/blob/main/src/Lv2/N42584.java)<br>
-[더 맵게](https://github.com/JinhwanB/Programmers/blob/main/src/Lv2/N42626.java)
+[더 맵게](https://github.com/JinhwanB/Programmers/blob/main/src/Lv2/N42626.java)<br>
+[방문 길이](https://github.com/JinhwanB/Programmers/blob/main/src/Lv2/N49994.java)
