@@ -3,6 +3,7 @@ package Lv2;
 import java.util.Arrays;
 import java.util.Stack;
 
+// 뒤에 있는 큰 수 찾기
 public class N154539 {
     public static int[] solution(int[] numbers) {
         int[] result = new int[numbers.length];
