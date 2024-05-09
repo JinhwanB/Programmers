@@ -99,4 +99,5 @@
 [더 맵게](https://github.com/JinhwanB/Programmers/blob/main/src/Lv2/N42626.java)<br>
 [방문 길이](https://github.com/JinhwanB/Programmers/blob/main/src/Lv2/N49994.java)<br>
 [롤케이크 자르기](https://github.com/JinhwanB/Programmers/blob/main/src/Lv2/N132265.java)<bt>
-[뒤에 있는 큰 수 찾기](https://github.com/JinhwanB/Programmers/blob/main/src/Lv2/N154539.java)
+[뒤에 있는 큰 수 찾기](https://github.com/JinhwanB/Programmers/blob/main/src/Lv2/N154539.java)<br>
+[땅따먹기](https://github.com/JinhwanB/Programmers/blob/main/src/Lv2/N12913.java)
