@@ -103,4 +103,5 @@
 [땅따먹기](https://github.com/JinhwanB/Programmers/blob/main/src/Lv2/N12913.java)<br>
 [스킬트리](https://github.com/JinhwanB/Programmers/blob/main/src/Lv2/N49993.java)<br>
 [주차 요금 계산](https://github.com/JinhwanB/Programmers/blob/main/src/Lv2/N92341.java)<br>
-[[3차] 파일명 정렬](https://github.com/JinhwanB/Programmers/blob/main/src/Lv2/N17686.java)
+[[3차] 파일명 정렬](https://github.com/JinhwanB/Programmers/blob/main/src/Lv2/N17686.java)<br>
+[오픈채팅방](https://github.com/JinhwanB/Programmers/blob/main/src/Lv2/N42888.java)
