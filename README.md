@@ -104,4 +104,5 @@
 [스킬트리](https://github.com/JinhwanB/Programmers/blob/main/src/Lv2/N49993.java)<br>
 [주차 요금 계산](https://github.com/JinhwanB/Programmers/blob/main/src/Lv2/N92341.java)<br>
 [[3차] 파일명 정렬](https://github.com/JinhwanB/Programmers/blob/main/src/Lv2/N17686.java)<br>
-[오픈채팅방](https://github.com/JinhwanB/Programmers/blob/main/src/Lv2/N42888.java)
+[오픈채팅방](https://github.com/JinhwanB/Programmers/blob/main/src/Lv2/N42888.java)<br>
+[택배상자](https://github.com/JinhwanB/Programmers/blob/main/src/Lv2/N131704.java)
