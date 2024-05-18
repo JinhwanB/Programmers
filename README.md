@@ -107,4 +107,5 @@
 [오픈채팅방](https://github.com/JinhwanB/Programmers/blob/main/src/Lv2/N42888.java)<br>
 [택배상자](https://github.com/JinhwanB/Programmers/blob/main/src/Lv2/N131704.java)<br>
 [[1차] 프렌즈4블록](https://github.com/JinhwanB/Programmers/blob/main/src/Lv2/N17679.java)<br>
-[숫자 변환하기](https://github.com/JinhwanB/Programmers/blob/main/src/Lv2/N154538.java)
+[숫자 변환하기](https://github.com/JinhwanB/Programmers/blob/main/src/Lv2/N154538.java)<br>
+[2 X n 타일링](https://github.com/JinhwanB/Programmers/blob/main/src/Lv2/N12900.java)
