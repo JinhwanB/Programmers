@@ -110,4 +110,5 @@
 [숫자 변환하기](https://github.com/JinhwanB/Programmers/blob/main/src/Lv2/N154538.java)<br>
 [2 X n 타일링](https://github.com/JinhwanB/Programmers/blob/main/src/Lv2/N12900.java)<br>
 [다리를 지나는 트럭](https://github.com/JinhwanB/Programmers/blob/main/src/Lv2/N42583.java)<br>
-[가장 큰 수](https://github.com/JinhwanB/Programmers/blob/main/src/Lv2/N42746.java)
+[가장 큰 수](https://github.com/JinhwanB/Programmers/blob/main/src/Lv2/N42746.java)<br>
+[소수 찾기](https://github.com/JinhwanB/Programmers/blob/main/src/Lv2/N42839.java)
