@@ -112,4 +112,5 @@
 [다리를 지나는 트럭](https://github.com/JinhwanB/Programmers/blob/main/src/Lv2/N42583.java)<br>
 [가장 큰 수](https://github.com/JinhwanB/Programmers/blob/main/src/Lv2/N42746.java)<br>
 [소수 찾기](https://github.com/JinhwanB/Programmers/blob/main/src/Lv2/N42839.java)<br>
-[쿼드압축 후 개수 세기](https://github.com/JinhwanB/Programmers/blob/main/src/Lv2/N68936.java)
+[쿼드압축 후 개수 세기](https://github.com/JinhwanB/Programmers/blob/main/src/Lv2/N68936.java)<br>
+[두 큐 합 같게 만들기](https://github.com/JinhwanB/Programmers/blob/main/src/Lv2/N118667.java)
