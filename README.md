@@ -115,4 +115,5 @@
 [쿼드압축 후 개수 세기](https://github.com/JinhwanB/Programmers/blob/main/src/Lv2/N68936.java)<br>
 [두 큐 합 같게 만들기](https://github.com/JinhwanB/Programmers/blob/main/src/Lv2/N118667.java)<br>
 [큰 수 만들기](https://github.com/JinhwanB/Programmers/blob/main/src/Lv2/N42883.java)<br>
-[삼각 달팽이](https://github.com/JinhwanB/Programmers/blob/main/src/Lv2/N68645.java)
+[삼각 달팽이](https://github.com/JinhwanB/Programmers/blob/main/src/Lv2/N68645.java)<br>
+[연속된 부분 수열의 합](https://github.com/JinhwanB/Programmers/blob/main/src/Lv2/N178870.java)
