@@ -76,6 +76,5 @@ public class N148653 {
     public static void main(String[] args) {
         System.out.println(solution(16));
         System.out.println(solution(2554));
-        System.out.println(solution(485));
     }
 }
