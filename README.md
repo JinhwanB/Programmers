@@ -122,4 +122,5 @@
 [마법의 엘리베이터](https://github.com/JinhwanB/Programmers/blob/main/src/Lv2/N148653.java)<br>
 [호텔 대실](https://github.com/JinhwanB/Programmers/blob/main/src/Lv2/N155651.java)<br>
 [시소 짝꿍](https://github.com/JinhwanB/Programmers/blob/main/src/Lv2/N152996.java)<br>
-[귤 고르기](https://github.com/JinhwanB/Programmers/blob/main/src/Lv2/N138476.java)
+[귤 고르기](https://github.com/JinhwanB/Programmers/blob/main/src/Lv2/N138476.java)<br>
+[메뉴 리뉴얼](https://github.com/JinhwanB/Programmers/blob/main/src/Lv2/N72411.java)
