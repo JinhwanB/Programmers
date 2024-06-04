@@ -124,4 +124,5 @@
 [시소 짝꿍](https://github.com/JinhwanB/Programmers/blob/main/src/Lv2/N152996.java)<br>
 [귤 고르기](https://github.com/JinhwanB/Programmers/blob/main/src/Lv2/N138476.java)<br>
 [메뉴 리뉴얼](https://github.com/JinhwanB/Programmers/blob/main/src/Lv2/N72411.java)<br>
-[숫자 카드 나누기](https://github.com/JinhwanB/Programmers/blob/main/src/Lv2/N135807.java)
+[숫자 카드 나누기](https://github.com/JinhwanB/Programmers/blob/main/src/Lv2/N135807.java)<br>
+[배달](https://github.com/JinhwanB/Programmers/blob/main/src/Lv2/N12978.java)
