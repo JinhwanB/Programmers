@@ -130,4 +130,5 @@
 [무인도 여행](https://github.com/JinhwanB/Programmers/blob/main/src/Lv2/N154540.java)<br>
 [줄 서는 방법](https://github.com/JinhwanB/Programmers/blob/main/src/Lv2/N12936.java)<br>
 [괄호 변환](https://github.com/JinhwanB/Programmers/blob/main/src/Lv2/N60058.java)<br>
-[[카카오 인턴] 수식 최대화](https://github.com/JinhwanB/Programmers/blob/main/src/Lv2/N67257.java)
+[[카카오 인턴] 수식 최대화](https://github.com/JinhwanB/Programmers/blob/main/src/Lv2/N67257.java)<br>
+[행렬 테두리 회전하기](https://github.com/JinhwanB/Programmers/blob/main/src/Lv2/N77485.java)
