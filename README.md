@@ -132,4 +132,5 @@
 [괄호 변환](https://github.com/JinhwanB/Programmers/blob/main/src/Lv2/N60058.java)<br>
 [[카카오 인턴] 수식 최대화](https://github.com/JinhwanB/Programmers/blob/main/src/Lv2/N67257.java)<br>
 [행렬 테두리 회전하기](https://github.com/JinhwanB/Programmers/blob/main/src/Lv2/N77485.java)<br>
-[미로 탈출](https://github.com/JinhwanB/Programmers/blob/main/src/Lv2/N159993.java)
+[미로 탈출](https://github.com/JinhwanB/Programmers/blob/main/src/Lv2/N159993.java)<br>
+[거리두기 확인하기](https://github.com/JinhwanB/Programmers/blob/main/src/Lv2/N81302.java)
