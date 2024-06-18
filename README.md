@@ -134,4 +134,5 @@
 [행렬 테두리 회전하기](https://github.com/JinhwanB/Programmers/blob/main/src/Lv2/N77485.java)<br>
 [미로 탈출](https://github.com/JinhwanB/Programmers/blob/main/src/Lv2/N159993.java)<br>
 [거리두기 확인하기](https://github.com/JinhwanB/Programmers/blob/main/src/Lv2/N81302.java)<br>
-[테이블 해시 함수](https://github.com/JinhwanB/Programmers/blob/main/src/Lv2/N147354.java)
+[테이블 해시 함수](https://github.com/JinhwanB/Programmers/blob/main/src/Lv2/N147354.java)<br>
+[리코쳇 로봇](https://github.com/JinhwanB/Programmers/blob/main/src/Lv2/N169199.java)
