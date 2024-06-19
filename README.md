@@ -135,4 +135,5 @@
 [미로 탈출](https://github.com/JinhwanB/Programmers/blob/main/src/Lv2/N159993.java)<br>
 [거리두기 확인하기](https://github.com/JinhwanB/Programmers/blob/main/src/Lv2/N81302.java)<br>
 [테이블 해시 함수](https://github.com/JinhwanB/Programmers/blob/main/src/Lv2/N147354.java)<br>
-[리코쳇 로봇](https://github.com/JinhwanB/Programmers/blob/main/src/Lv2/N169199.java)
+[리코쳇 로봇](https://github.com/JinhwanB/Programmers/blob/main/src/Lv2/N169199.java)<br>
+[가장 큰 정사각형 찾기](https://github.com/JinhwanB/Programmers/blob/main/src/Lv2/N12905.java)
