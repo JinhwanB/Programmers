@@ -136,4 +136,5 @@
 [거리두기 확인하기](https://github.com/JinhwanB/Programmers/blob/main/src/Lv2/N81302.java)<br>
 [테이블 해시 함수](https://github.com/JinhwanB/Programmers/blob/main/src/Lv2/N147354.java)<br>
 [리코쳇 로봇](https://github.com/JinhwanB/Programmers/blob/main/src/Lv2/N169199.java)<br>
-[가장 큰 정사각형 찾기](https://github.com/JinhwanB/Programmers/blob/main/src/Lv2/N12905.java)
+[가장 큰 정사각형 찾기](https://github.com/JinhwanB/Programmers/blob/main/src/Lv2/N12905.java)<br>
+[하노이의 탑](https://github.com/JinhwanB/Programmers/blob/main/src/Lv2/N12946.java)
