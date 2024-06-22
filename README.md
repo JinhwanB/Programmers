@@ -138,4 +138,5 @@
 [리코쳇 로봇](https://github.com/JinhwanB/Programmers/blob/main/src/Lv2/N169199.java)<br>
 [가장 큰 정사각형 찾기](https://github.com/JinhwanB/Programmers/blob/main/src/Lv2/N12905.java)<br>
 [하노이의 탑](https://github.com/JinhwanB/Programmers/blob/main/src/Lv2/N12946.java)<br>
-[디펜스 게임](https://github.com/JinhwanB/Programmers/blob/main/src/Lv2/N142085.java)
+[디펜스 게임](https://github.com/JinhwanB/Programmers/blob/main/src/Lv2/N142085.java)<br>
+[문자열 압축](https://github.com/JinhwanB/Programmers/blob/main/src/Lv2/N60057.java)
