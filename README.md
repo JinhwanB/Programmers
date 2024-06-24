@@ -140,4 +140,5 @@
 [하노이의 탑](https://github.com/JinhwanB/Programmers/blob/main/src/Lv2/N12946.java)<br>
 [디펜스 게임](https://github.com/JinhwanB/Programmers/blob/main/src/Lv2/N142085.java)<br>
 [문자열 압축](https://github.com/JinhwanB/Programmers/blob/main/src/Lv2/N60057.java)<br>
-[멀쩡한 사각형](https://github.com/JinhwanB/Programmers/blob/main/src/Lv2/N62048.java)
+[멀쩡한 사각형](https://github.com/JinhwanB/Programmers/blob/main/src/Lv2/N62048.java)<br>
+[광물 캐기](https://github.com/JinhwanB/Programmers/blob/main/src/Lv2/N172927.java)
