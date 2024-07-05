@@ -146,4 +146,5 @@
 [점 찍기](https://github.com/JinhwanB/Programmers/blob/main/src/Lv2/N140107.java)<br>
 [후보키](https://github.com/JinhwanB/Programmers/blob/main/src/Lv2/N42890.java)<br>
 [과제 진행하기](https://github.com/JinhwanB/Programmers/blob/main/src/Lv2/N176962.java)<br>
-[두 원 사이의 정수 쌍](https://github.com/JinhwanB/Programmers/blob/main/src/Lv2/N181187.java)
+[두 원 사이의 정수 쌍](https://github.com/JinhwanB/Programmers/blob/main/src/Lv2/N181187.java)<br>
+[N-Queen](https://github.com/JinhwanB/Programmers/blob/main/src/Lv2/N12952.java)
