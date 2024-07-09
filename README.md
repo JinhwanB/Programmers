@@ -148,4 +148,5 @@
 [과제 진행하기](https://github.com/JinhwanB/Programmers/blob/main/src/Lv2/N176962.java)<br>
 [두 원 사이의 정수 쌍](https://github.com/JinhwanB/Programmers/blob/main/src/Lv2/N181187.java)<br>
 [N-Queen](https://github.com/JinhwanB/Programmers/blob/main/src/Lv2/N12952.java)<br>
-[혼자 놀기의 달인](https://github.com/JinhwanB/Programmers/blob/main/src/Lv2/N131130.java)
+[혼자 놀기의 달인](https://github.com/JinhwanB/Programmers/blob/main/src/Lv2/N131130.java)<br>
+[이모티콘 할인행사](https://github.com/JinhwanB/Programmers/blob/main/src/Lv2/N150368.java)
