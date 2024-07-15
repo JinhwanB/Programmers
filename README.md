@@ -151,4 +151,5 @@
 [혼자 놀기의 달인](https://github.com/JinhwanB/Programmers/blob/main/src/Lv2/N131130.java)<br>
 [이모티콘 할인행사](https://github.com/JinhwanB/Programmers/blob/main/src/Lv2/N150368.java)<br>
 [혼자서 하는 틱택토](https://github.com/JinhwanB/Programmers/blob/main/src/Lv2/N160585.java)<br>
-[요격 시스템](https://github.com/JinhwanB/Programmers/blob/main/src/Lv2/N181188.java)
+[요격 시스템](https://github.com/JinhwanB/Programmers/blob/main/src/Lv2/N181188.java)<br>
+[숫자 블록](https://github.com/JinhwanB/Programmers/blob/main/src/Lv2/N12923.java)
