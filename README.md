@@ -56,6 +56,7 @@
 [신고 결과 받기](https://github.com/JinhwanB/Programmers/blob/main/src/Lv1/N92334.java)<br>
 [[PCCP 기출 문제] 1번 / 붕대 감기](https://github.com/JinhwanB/Programmers/blob/main/src/Lv1/N250137.java)<br>
 [가장 많이 받은 선물](https://github.com/JinhwanB/Programmers/blob/main/src/Lv1/N258712.java)<br>
+[[PCCP 기출문제] 1번 / 동영상 재생기](https://github.com/JinhwanB/Programmers/blob/main/src/Lv1/N340213.java)
 
 ## Lv2
 
